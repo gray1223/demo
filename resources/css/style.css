@@ -37,9 +37,9 @@ a:hover {
 nav li {
   display: flex;
   flex-direction: row;
-  width: 5vw;
+  width: 7vw;
   margin: auto 2vw;
-  font-size; 2.2vh;
+  font-size: 2.2vh;
 }
 
 nav li:first-child {
